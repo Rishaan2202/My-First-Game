@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5ahnvb7wl7yc"
-path="res://.godot/imported/Hit (32x32).png-cf23d33060e9ad19c119be271b33dc7a.ctex"
+uid="uid://clbwxew12bhw6"
+path="res://.godot/imported/Hit (38x24).png-4dd8b762bfe8394f4090e658654f7eea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pink Man/Hit (32x32).png"
-dest_files=["res://.godot/imported/Hit (32x32).png-cf23d33060e9ad19c119be271b33dc7a.ctex"]
+source_file="res://assets/images/Snail/Hit (38x24).png"
+dest_files=["res://.godot/imported/Hit (38x24).png-4dd8b762bfe8394f4090e658654f7eea.ctex"]
 
 [params]
 

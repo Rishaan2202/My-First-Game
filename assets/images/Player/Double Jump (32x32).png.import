@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c2gdbruhfw8v2"
-path="res://.godot/imported/Fall (32x32).png-06c6229693b5a40cb4a61fe20ad19108.ctex"
+uid="uid://dbffngr36p4d0"
+path="res://.godot/imported/Double Jump (32x32).png-6565e7876351ded794e444783718ffb1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Pink Man/Fall (32x32).png"
-dest_files=["res://.godot/imported/Fall (32x32).png-06c6229693b5a40cb4a61fe20ad19108.ctex"]
+source_file="res://assets/images/Player/Double Jump (32x32).png"
+dest_files=["res://.godot/imported/Double Jump (32x32).png-6565e7876351ded794e444783718ffb1.ctex"]
 
 [params]
 

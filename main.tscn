@@ -1,23 +1,11 @@
 [gd_scene format=3 uid="uid://qtmo2onnor7o"]
 
-[ext_resource type="PackedScene" uid="uid://bbjuuykifqr2b" path="res://scenes/player.tscn" id="1_ig7tw"]
-[ext_resource type="Texture2D" uid="uid://2om0qibryojm" path="res://icon.svg" id="2_0xm2m"]
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_3uhwc"]
-size = Vector2(129, 128)
+[ext_resource type="PackedScene" uid="uid://bn708js53fbf8" path="res://scenes/level_root.tscn" id="1_ig7tw"]
+[ext_resource type="AudioStream" uid="uid://086ufwoi2ctw" path="res://assets/sounds/music.ogg" id="2_0xm2m"]
 
 [node name="main" type="Node2D" unique_id=1491396713]
 
-[node name="player" parent="." unique_id=127515732 instance=ExtResource("1_ig7tw")]
-position = Vector2(594, 187)
+[node name="LevelRoot" parent="." unique_id=1606133905 instance=ExtResource("1_ig7tw")]
 
-[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=2032381419]
-position = Vector2(594, 348)
-metadata/_edit_group_ = true
-
-[node name="Icon" type="Sprite2D" parent="StaticBody2D" unique_id=1496710167]
-texture = ExtResource("2_0xm2m")
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=781542631]
-position = Vector2(-0.5, 0)
-shape = SubResource("RectangleShape2D_3uhwc")
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="." unique_id=573530832]
+stream = ExtResource("2_0xm2m")
