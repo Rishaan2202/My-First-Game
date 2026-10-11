@@ -352,9 +352,8 @@ animations = [{
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_3uhwc"]
 size = Vector2(21.333334, 25.333332)
 
-[node name="player" type="CharacterBody2D" unique_id=1770827366]
+[node name="player" type="CharacterBody2D" unique_id=1770827366 groups=["player"]]
 texture_filter = 1
-scale = Vector2(3, 3)
 script = ExtResource("1_smehm")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1595699664]

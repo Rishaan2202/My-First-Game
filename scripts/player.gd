@@ -5,8 +5,18 @@ extends CharacterBody2D
 const SPEED = 300.0
 const JUMP_VELOCITY = -950.0
 
+var is_dead: bool = false
+
+func death_animation() -> void:
+	is_dead = true
+	velocity = Vector2.ZERO
+	animated_sprite_2d.animation = "hit"
 
 func _physics_process(delta: float) -> void:
+	
+	#Return if Player is dead already
+	if is_dead:
+		return
 	
 	# Add animations
 	if velocity.x > 1 or velocity.x < -1:
