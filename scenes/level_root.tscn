@@ -184,3 +184,6 @@ stream = ExtResource("4_ssdv0")
 
 [node name="enemy" parent="." unique_id=676239902 instance=ExtResource("5_ssdv0")]
 position = Vector2(194.33334, 212)
+
+[node name="enemy2" parent="." unique_id=1451991512 instance=ExtResource("5_ssdv0")]
+position = Vector2(385, 211.99998)

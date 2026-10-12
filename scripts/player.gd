@@ -11,6 +11,8 @@ func death_animation() -> void:
 	is_dead = true
 	velocity = Vector2.ZERO
 	animated_sprite_2d.animation = "hit"
+	await get_tree().create_timer(1.5).timeout
+	queue_free()
 
 func _physics_process(delta: float) -> void:
 	
