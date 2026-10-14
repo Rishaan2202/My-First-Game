@@ -242,7 +242,7 @@ radius = 11.0
 [node name="enemy" type="Area2D" unique_id=676239902]
 script = ExtResource("1_5uy6h")
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=570130447]
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=570130447 groups=["apples"]]
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_3uhwc")
 animation = &"idle"
