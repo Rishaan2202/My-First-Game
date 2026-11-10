@@ -28,25 +28,30 @@ Now, let's take a look into all the components of this game!
 <br>
 Firstly, we have the player, which is a CharacterBody2D, here is how it looks like:
 <br>
+<br>
 <img width="133" height="155" alt="image" src="https://github.com/user-attachments/assets/8a5eecc3-fcda-4238-a1c6-582820be40a4" />
 <br>
 <br>
 Now lemme show you the enemy, it's a snail, but moves fast! Here it is:
+<br>
 <br>
 <img width="193" height="160" alt="image" src="https://github.com/user-attachments/assets/218f352f-7cef-426f-895b-d0a9e9c32b7e" />
 <br>
 <br>
 My checkpoint or the flag is hoisted at the end of the game and looks like this:
 <br>
+<br>
 <img width="173" height="200" alt="image" src="https://github.com/user-attachments/assets/539b93fd-17a6-4248-9c36-b590f88f444d" />
 <br>
 <br>
 Here are the apples or we can say the ones which give points when taken!
 <br>
-https://github.com/Rishaan2202/My-First-Game/blob/main/image.png?raw=true<img width="132" height="120" alt="image" src="https://github.com/user-attachments/assets/dffdf01b-50b7-40c7-ba9f-e6daeeae3446" />
+<br>
+<img width="132" height="120" alt="image" src="https://github.com/user-attachments/assets/dffdf01b-50b7-40c7-ba9f-e6daeeae3446" />
 <br>
 <br>
 Now, let's take a look at the entire project, hope it looks great!
+<br>
 <br>
 <img width="1640" height="945" alt="image" src="https://github.com/user-attachments/assets/8f1ed90c-081b-4047-a302-2a1faf3a8fb1" />
 </h2>
