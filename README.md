@@ -1,5 +1,57 @@
 # My-First-Game
+<h2>
 A really simple platformer game made for the motive of me entering this crazy world of Game Dev! This is a really basic game and i’ve just started game dev so pls don’t judge my capabilities yet.
+</h2>
 <br>
-While making this game, I’ve come across many kinds of new stuff, some of the nodes i got to get familiar with are as follows:
-
+<h2>
+This game is entirely made on Godot and is hosted on itch.io While making this game, I’ve come across many kinds of new stuff, some of the nodes i got to get familiar with are as follows:
+<br>
+<br>
+<ul>
+<li>Area2D</li>
+<li>CharacterBody2D</li>
+<li>AnimatedBody2D</li>
+<li>Tiles</li>
+and many more...
+<ul>
+</h2>
+<h2>
+<br>
+You can access and play my game here:
+<br>
+![My First Game!](https://rishaan22.itch.io/the-simple-game)
+</h2>
+<br>
+<br>
+<h2>
+Now, let's take a look into all the components of this game!
+<br>
+Firstly, we have the player, which is a CharacterBody2D, here is how it looks like:
+<br>
+![Player](image.jpeg)
+<br>
+<br>
+Now lemme show you the enemy, it's a snail, but moves fast! Here it is:
+<br>
+![Snail](image-1.jpeg)
+<br>
+<br>
+My checkpoint or the flag is hoisted at the end of the game and looks like this:
+<br>
+![Checkpoint](image-2.jpeg)
+<br>
+<br>
+Here are the apples or we can say the ones which give points when taken!
+<br>
+![Apple](image.png)
+<br>
+<br>
+Now, let's take a look at the entire project, hope it looks great!
+<br>
+![alt text](image-3.jpeg)
+</h2>
+<br>
+<br>
+<h2>
+I hope y'all enjoyed this game. i know that this is not a really fun game but is my first ever godot game, the first time I interacted with godot!, The first time I got to know about nodes! the first time I got to know about signals and stuff! this whole experience was sooo cool, I'll be making more advanced and interesting games in the future, so stay tuned, and if you have any query, tyen feel free to contact me on slack, I'm @Rishaan(The one with the cool pfp ofc)
+</h2>
