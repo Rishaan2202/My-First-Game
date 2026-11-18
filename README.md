@@ -57,7 +57,7 @@ Now, let's take a look at the entire project, hope it looks great!
 </h2>
 <br>
 <br>
-## AI Declaration
+<h1>AI Declaration</h1>
 <h2>No AI has been used to generate any code or assets of this code, but I did use some ai to know how godot works! I have used some assets from itch.io too!</h2>
 <br>
 <br>
