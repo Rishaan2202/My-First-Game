@@ -57,6 +57,10 @@ Now, let's take a look at the entire project, hope it looks great!
 </h2>
 <br>
 <br>
+## AI Declaration
+<h2>No AI has been used to generate any code or assets of this code, but I did use some ai to know how godot works! I have used some assets from itch.io too!</h2>
+<br>
+<br>
 <h2>
 I hope y'all enjoyed this game. i know that this is not a really fun game but is my first ever godot game, the first time I interacted with godot!, The first time I got to know about nodes! the first time I got to know about signals and stuff! this whole experience was sooo cool, I'll be making more advanced and interesting games in the future, so stay tuned, and if you have any query, tyen feel free to contact me on slack, I'm @Rishaan(The one with the cool pfp ofc)
 </h2>
