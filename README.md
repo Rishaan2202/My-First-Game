@@ -29,7 +29,8 @@ Now, let's take a look into all the components of this game!
 Firstly, we have the player, which is a CharacterBody2D, here is how it looks like:
 <br>
 <br>
-<img width="133" height="155" alt="image" src="https://github.com/user-attachments/assets/8a5eecc3-fcda-4238-a1c6-582820be40a4" />
+<img width="44" height="80" alt="image" src="https://github.com/user-attachments/assets/f1855818-a916-4a0d-a544-dde814de2c7d" />
+
 <br>
 <br>
 Now lemme show you the enemy, it's a snail, but moves fast! Here it is:
@@ -53,7 +54,8 @@ Here are the apples or we can say the ones which give points when taken!
 Now, let's take a look at the entire project, hope it looks great!
 <br>
 <br>
-<img width="1640" height="945" alt="image" src="https://github.com/user-attachments/assets/8f1ed90c-081b-4047-a302-2a1faf3a8fb1" />
+<img width="691" height="392" alt="image" src="https://github.com/user-attachments/assets/c61a5ef4-07ef-4169-b5fe-f3da491e58ca" />
+
 </h2>
 <br>
 <br>
@@ -62,5 +64,5 @@ Now, let's take a look at the entire project, hope it looks great!
 <br>
 <br>
 <h2>
-I hope y'all enjoyed this game. i know that this is not a really fun game but is my first ever godot game, the first time I interacted with godot!, The first time I got to know about nodes! the first time I got to know about signals and stuff! this whole experience was sooo cool, I'll be making more advanced and interesting games in the future, so stay tuned, and if you have any query, tyen feel free to contact me on slack, I'm @Rishaan(The one with the cool pfp ofc)
+I hope y'all enjoyed this game. i know that this is not a really fun game but is my first ever godot game, the first time I interacted with godot!, The first time I got to know about nodes! the first time I got to know about signals and stuff! this whole experience was sooo cool and was the exact reason why this took so much time. I'll be making more advanced and interesting games in the future, so stay tuned, and if you have any query, then feel free to contact me on slack, I'm @Rishaan(The one with the cool pfp ofc)
 </h2>
