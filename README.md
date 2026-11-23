@@ -3,7 +3,7 @@
 A really simple platformer game made for the motive of me entering this crazy world of Game Dev! This is a really basic game and i’ve just started game dev so pls don’t judge my capabilities yet.
 </h2>
 <br>
-    <h1> ```NOTE: This project has been made with the help of a youtube tutoril, though it's not a 1:1 copy, I've added different charater, different tilesets and different arrangement of stuff!```</h1>
+    <h1> ``` NOTE: This project has been made with the help of a youtube tutoril, though it's not a 1:1 copy, I've added different charater, different tilesets and different arrangement of stuff! ```</h1>
 <br>
 <h2>
 This game is entirely made on Godot and is hosted on itch.io While making this game, I’ve come across many kinds of new stuff, some of the nodes i got to get familiar with are as follows:
