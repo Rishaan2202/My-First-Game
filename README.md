@@ -7,6 +7,7 @@ A really simple platformer game made for the motive of me entering this crazy wo
 This game is entirely made on Godot and is hosted on itch.io While making this game, I’ve come across many kinds of new stuff, some of the nodes i got to get familiar with are as follows:
 <br>
 <br>
+## ```NOTE: This project has been made with the help of a youtube tutoril, though it's not a 1:1 copy, I've added different charater, different tilesets and different arrangement of stuff!```
 <ul>
 <li>Area2D</li>
 <li>CharacterBody2D</li>
@@ -30,7 +31,6 @@ Firstly, we have the player, which is a CharacterBody2D, here is how it looks li
 <br>
 <br>
 <img width="44" height="80" alt="image" src="https://github.com/user-attachments/assets/f1855818-a916-4a0d-a544-dde814de2c7d" />
-
 <br>
 <br>
 Now lemme show you the enemy, it's a snail, but moves fast! Here it is:
